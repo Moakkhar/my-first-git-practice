@@ -1,0 +1,23 @@
+h2{
+    color: red;
+    background-color: black;
+    font-size: 25px;
+    border-radius: 6px;
+    text-align: center;
+}
+div{
+    padding: 20px;
+    margin: 10px;
+    background-image: url("./luke-miller-bddom5Rtwds-unsplash.jpg");
+    background-position-x: center;
+    background-size: cover;
+    border: 8px solid greenyellow;
+    border-radius: 8px;
+    background-blend-mode:darken;
+}
+p{
+    color: rgb(255, 0, 0);
+    font-size: larger;
+    font-style: italic;
+    font: bolder;
+}
